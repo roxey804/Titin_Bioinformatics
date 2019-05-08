@@ -3,7 +3,7 @@ Analysis of titin amino acid sequences using python
 
 Titin is a giant muscle protein, the largest protein in the human body! (over 4 MDa in size). Amongst many others it comtains 132 fibronectin type 3 (Fn-3) domains, many of which have very similar amino acid sequences.
 
-The 20 essential amino acids can be described in a one letter code:
+The 20 essential amino acids can be described by a one letter code:
 
 G		Glycine		Gly									P		Proline		Pro
 A		Alanine		Ala									V		Valine		Val
