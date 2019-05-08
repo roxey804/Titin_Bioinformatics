@@ -30,4 +30,6 @@ get_all_res(x) returns the amino acid (residue) at position (x) for each domain
 
 countres looks asks the user for which position they are interested in and should return a counter which counts the numbers of amino acids by single leter code in that particular position. 
 
-EXAMPE: run countres() function and input 4
+EXAMPLE: run countres() function and input 4
+
+PROBLEM: how can I get countres to then run the percentagecalculator on the amino acid most often found in the inputted position? It seems to work for some positions but for others it selects one that only occurs e.g 4 times rather than the one that occurs more often?
